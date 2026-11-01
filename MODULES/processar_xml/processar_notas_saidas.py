@@ -43,7 +43,7 @@ def calcular_icms_valor_a_recuperar(dados_excel, frete_item, desconto_item, valo
 
     ano = int(data.split('/')[2])
     if ano >= 2025 and aliq_interna_excel == 0.18:
-        aliq_interna_excel = 20.00
+        aliq_interna_excel = 0.20
         
     # VERIFICA SE O ITEM É SUBSTITUTO TRIBUTARIO E CASO SEJA ZERA O ICMS 
     if cest_excel != 0 :

@@ -4,7 +4,7 @@
 
 Motor em Python que reprocessa os XMLs fiscais de uma empresa do **Lucro Real** para encontrar tributo pago a maior: **créditos de PIS/COFINS** não aproveitados nas entradas e **ICMS destacado a maior** nas saídas. Ao final ele gera os arquivos **SPED retificadores** e as planilhas de apoio.
 
-Repositório irmão: [MOTOR_RECUPERACAO_SN](https://github.com/Elias2031/MOTOR_RECUPERACAO_SN), a mesma ideia aplicada a empresas do **Simples Nacional** (segregação de receitas monofásicas/ST e reapuração do PGDAS-D).
+Repositório irmão: [motor-recuperacao-simples-nacional](https://github.com/Elias2031/motor-recuperacao-simples-nacional), a mesma ideia aplicada a empresas do **Simples Nacional** (segregação de receitas monofásicas/ST e reapuração do PGDAS-D).
 
 ---
 

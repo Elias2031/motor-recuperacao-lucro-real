@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+
+# Ambientes virtuais e segredos
+venv/
+.venv/
+env/
+.env
+*.env
+!.env.example
+
+# IDEs / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# Certificados e bancos
+*.pfx
+*.p12
+*.pem
+*.key
+*.sqlite3
+*.db
+
+# Documentos fiscais reais (NUNCA versionar)
+*.zip
+*.xml
+*.pdf
+*.txt
+!_RECURSOS_/*.txt
+!requirements.txt
+*.xlsx
+!_RECURSOS_/tipi.xlsx
+!_RECURSOS/tipi.xlsx
+~$*
+
+# Entradas (dados de clientes)
+/notas_fiscais/
+/ANALISE/
+/SPED/
+
+# Saídas geradas pelo motor
+SPEDS_MODIFICADOS/
+SPED CONTRIBUICOES MODIFICADO/
+/RELATORIOS/
+RELATORIOS_1/
+relatorios_apuracao*/
+PLANILHAS DE */
+SEGREGACAO DE */

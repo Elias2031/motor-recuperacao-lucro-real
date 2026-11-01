@@ -1,0 +1,90 @@
+vers�o=9 CFOP, DESC_CFOP, DT_INI, DT_FIM, NAT_BC_CRE
+1102|Compra para comercializa��o|01012011||01
+1113|Compra para comercializa��o, de mercadoria recebida anteriormente em consigna��o mercantil|01012011||01
+1117|Compra para comercializa��o originada de encomenda para recebimento futuro|01012011||01
+1118|Compra de mercadoria para comercializa��o pelo adquirente origin�rio, entregue pelo vendedor remetente ao destinat�rio, em venda � ordem|01012011||01
+1121|Compra para comercializa��o, em venda � ordem, j� recebida do vendedor remetente|01012011||01
+1251|Compra de energia el�trica para distribui��o ou comercializa��o|01012011||01
+1403|Compra para comercializa��o em opera��o com mercadoria sujeita ao regime de substitui��o tribut�ria (bares, restaurantes etc.)|01012011||01
+1652|Compra de combust�vel ou lubrificante para comercializa��o|01012011||01
+2102|Compra para comercializa��o|01012011||01
+2113|Compra para comercializa��o, de mercadoria recebida anteriormente em consigna��o mercantil|01012011||01
+2117|Compra para comercializa��o originada de encomenda para recebimento futuro|01012011||01
+2118|Compra de mercadoria para comercializa��o pelo adquirente origin�rio, entregue pelo vendedor remetente ao destinat�rio, em venda � ordem|01012011||01
+2121|Compra para comercializa��o, em venda � ordem, j� recebida do vendedor remetente|01012011||01
+2251|Compra de energia el�trica para distribui��o ou comercializa��o|01012011||01
+2403|Compra para comercializa��o em opera��o com mercadoria sujeita ao regime de substitui��o tribut�ria (bares, restaurantes etc.)|01012011||01
+2652|Compra de combust�vel ou lubrificante para comercializa��o|01012011||01
+3102|Compra para comercializa��o (Importa��o)|01012011||01
+3251|Compra de energia el�trica para distribui��o ou comercializa��o (Importa��o)|01012011||01
+3652|Compra de combust�vel ou lubrificante para comercializa��o (Importa��o)|01012011||01
+1101|Compra para industrializa��o ou Produ��o Rural|01012011||02
+1111|Compra para industrializa��o, de mercadoria recebida anteriormente em consigna��o industrial|01012011||02
+1116|Compra para industrializa��o originada de encomenda para recebimento futuro|01012011||02
+1120|Compra para industrializa��o, em venda � ordem, j� recebida do vendedor remetente|01012011||02
+1122|Compra para industrializa��o em que a mercadoria foi remetida pelo fornecedor ao industrializador sem transitar pelo estabelecimento adquirente|01012011||02
+1126|Compra para utiliza��o na presta��o de servi�o sujeito ao ICMS|01012011||02
+1128|Compra para utiliza��o na presta��o de servi�o sujeito ao ISSQN|01012011||02
+1401|Compra para industrializa��o em opera��o com mercadoria sujeita ao regime de substitui��o tribut�ria|01012011||02
+1407|Compra de mercadoria para uso ou consumo cuja mercadoria est� sujeita ao regime de substitui��o tribut�ria (do ICMS)|01012011||02
+1556|Compra de material para uso ou consumo|01012011||02
+1651|Compra de combust�vel ou lubrificante para industrializa��o subseq�ente|01012011||02
+1653|Compra de combust�vel ou lubrificante por consumidor ou usu�rio final|01012011||02
+2101|Compra para industrializa��o ou Produ��o Rural|01012011||02
+2111|Compra para industrializa��o, de mercadoria recebida anteriormente em consigna��o industrial|01012011||02
+2116|Compra para industrializa��o originada de encomenda para recebimento futuro|01012011||02
+2120|Compra para industrializa��o, em venda � ordem, j� recebida do vendedor remetente|01012011||02
+2122|Compra para industrializa��o em que a mercadoria foi remetida pelo fornecedor ao industrializador sem transitar pelo estabelecimento adquirente|01012011||02
+2126|Compra para utiliza��o na presta��o de servi�o|01012011||02
+2128|Compra para utiliza��o na presta��o de servi�o sujeita ao ISSQN|01012011||02
+2401|Compra para industrializa��o em opera��o com mercadoria sujeita ao regime de substitui��o tribut�ria|01012011||02
+2407|Compra de mercadoria para uso ou consumo cuja mercadoria est� sujeita ao regime de substitui��o tribut�ria (do ICMS)|01012011||02
+2556|Compra de material para uso ou consumo|01012011||02
+2651|Compra de combust�vel ou lubrificante para industrializa��o subseq�ente|01012011||02
+2653|Compra de combust�vel ou lubrificante por consumidor ou usu�rio final|01012011||02
+3101|Compra para industrializa��o ou Produ��o Rural  (Importa��o)|01012011||02
+3126|Compra para utiliza��o na presta��o de servi�o  (Importa��o)|01012011||02
+3128|Compra para utiliza��o na presta��o de servi�o sujeita ao ISSQN (Importa��o)|01012011||02
+3556|Compra de material para uso ou consumo (Importa��o)|01012011||02
+3651|Compra de combust�vel ou lubrificante para industrializa��o subseq�ente  (Importa��o)|01012011||02
+3653|Compra de combust�vel ou lubrificante por consumidor ou usu�rio final  (Importa��o)|01012011||02
+1124|Industrializa��o efetuada por outra empresa|01012011||03
+1125|Industrializa��o efetuada por outra empresa quando a mercadoria remetida para utiliza��o no processo de industrializa��o n�o transitou pelo estabelecimento adquirente da mercadoria|01012011||03
+1933|Aquisi��o de servi�o tributado pelo Imposto sobre Servi�os de Qualquer Natureza|01012011||03
+2124|Industrializa��o efetuada por outra empresa|01012011||03
+2125|Industrializa��o efetuada por outra empresa quando a mercadoria remetida para utiliza��o no processo de industrializa��o n�o transitou pelo estabelecimento adquirente da mercadoria|01012011||03
+2933|Aquisi��o de servi�o tributado pelo Imposto Sobre Servi�os de Qualquer Natureza|01012011||03
+1201|Devolu��o de venda de produ��o do estabelecimento|01012011||12
+1202|Devolu��o de venda de mercadoria adquirida ou recebida de terceiros|01012011||12
+1203|Devolu��o de venda de produ��o do estabelecimento, destinada � Zona Franca de Manaus ou �reas de Livre Com�rcio|01012011||12
+1204|Devolu��o de venda de mercadoria adquirida ou recebida de terceiros, destinada � Zona Franca de Manaus ou �reas de Livre Com�rcio|01012011||12
+1410|Devolu��o de venda de produ��o do estabelecimento em opera��o com produto sujeito ao regime de substitui��o tribut�ria|01012011||12
+1411|Devolu��o de venda de mercadoria adquirida ou recebida de terceiros em opera��o com mercadoria sujeita ao regime de substitui��o tribut�ria|01012011||12
+1660|Devolu��o de venda de combust�vel ou lubrificante destinado � industrializa��o subseq�ente|01012011||12
+1661|Devolu��o de venda de combust�vel ou lubrificante destinado � comercializa��o|01012011||12
+1662|Devolu��o de venda de combust�vel ou lubrificante destinado a consumidor ou usu�rio final|01012011||12
+2201|Devolu��o de venda de produ��o do estabelecimento|01012011||12
+2202|Devolu��o de venda de mercadoria adquirida ou recebida de terceiros|01012011||12
+2410|Devolu��o de venda de produ��o do estabelecimento em opera��o com produto sujeito ao regime de substitui��o tribut�ria|01012011||12
+2411|Devolu��o de venda de mercadoria adquirida ou recebida de terceiros em opera��o com mercadoria sujeita ao regime de substitui��o tribut�ria (do ICMS)|01012011||12
+2660|Devolu��o de venda de combust�vel ou lubrificante destinado � industrializa��o subseq�ente|01012011||12
+2661|Devolu��o de venda de combust�vel ou lubrificante destinado � comercializa��o|01012011||12
+2662|Devolu��o de venda de combust�vel ou lubrificante destinado a consumidor ou usu�rio final|01012011||12
+1922|Lan�amento efetuado a t�tulo de simples faturamento decorrente de compra para recebimento futuro|01012011||13
+2922|Lan�amento efetuado a t�tulo de simples faturamento decorrente de compra para recebimento futuro|01012011||13
+1206|Anula��o de valor relativo � presta��o de servi�o de transporte|01012011||12
+2206|Anula��o de valor relativo � presta��o de servi�o de transporte|01012011||12
+1207|Anula��o de valor relativo � venda de energia el�trica|01012011||12
+2207|Anula��o de valor relativo � venda de energia el�trica|01012011||12
+1135|Fixa��o de pre�o de produ��o do estabelecimento produtor, inclusive quando remetidas anteriormente com previs�o de posterior ajuste ou fixa��o de pre�o, em ato cooperativo, para industrializa��o|01012018||02
+2135|Fixa��o de pre�o de produ��o do estabelecimento produtor, inclusive quando remetidas anteriormente com previs�o de posterior ajuste ou fixa��o de pre�o, em ato cooperativo, para industrializa��o|01012018||02
+1132|Fixa��o de pre�o de produ��o do estabelecimento produtor, inclusive quando remetidas anteriormente com previs�o de posterior ajuste ou fixa��o de pre�o, em ato cooperativo, para comercializa��o|01012018||02
+2132|Fixa��o de pre�o de produ��o do estabelecimento produtor, inclusive quando remetidas anteriormente com previs�o de posterior ajuste ou fixa��o de pre�o, em ato cooperativo, para comercializa��o.|01012018||02
+1215|Devolu��o de fornecimento de produ��o do estabelecimento de ato cooperativo|01052019||12
+1216|Devolu��o de fornecimento de mercadoria adquirida ou recebida de terceiros de ato cooperativo|01052019||12
+2215|Devolu��o de fornecimento de produ��o do estabelecimento de ato cooperativo|01052019||12
+2216|Devolu��o de fornecimento de mercadoria adquirida ou recebida de terceiros de ato cooperativo|01052019||12
+1159|Entrada decorrente do fornecimento de produto ou mercadoria de ato cooperativo|01092018||01
+2159|Entrada decorrente do fornecimento de produto ou mercadoria de ato cooperativo|01092018||01
+1456|Entrada referente a remunera��o do produtor no Sistema de Integra��o e Parceria Rural|01032020||02
+2456|Entrada referente a remunera��o do produtor no Sistema de Integra��o e Parceria Rural|01032020||02
